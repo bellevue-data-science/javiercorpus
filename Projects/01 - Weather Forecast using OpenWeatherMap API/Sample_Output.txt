@@ -1,0 +1,67 @@
+Displaying weather information for Houston,TX,US
+Current temperature: 71.82°F
+Feels like: 72.84°F
+Temp Min: 69.8°F
+Temp Max: 73.27°F
+Pressure: 1014 hPa
+Humidity: 88%
+Description: overcast clouds
+Wind speed: 10.36 miles/hour
+
+
++--------------------------------------------------------+
+|    Displaying weather information for Houston,TX,US    |
++-----------------------+--------------------------------+
+|      Temperature      |           Conditions           |
++-----------------------+--------------------------------+
+| Current:	71.82°F | Description:	overcast clouds  |
+| Feels like:	72.84°F | Humidity:	88%              |
+| Min:		69.8°F  | Wind speed:	10.36 miles/hour |
+| Max:		73.27°F | Pressure:	1014 hPa         |
++-----------------------+--------------------------------+
+
+ 
+┌───────────────────────────────────────────────────────────┐
+│                           MENU                            │
+├───────────────────────────────────────────────────────────┤
+│ 1 - Change weather units. Current selection: imperial.    │
+│ 2 - Lookup by City/State/Country.                         │
+│ 3 - Lookup by zip code/Country.                           │
+│ 4 - Show examples of how to use this program              │
+│ 5 - Quit this program.                                    │
+└───────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────┐
+│ Current unit: imperial (°F)  │
+├──────────────────────────────┤
+│ 1 - Imperial (°F)            │
+│ 2 - Metric (°C)              │                                      
+│ 3 - Standard (°K).           │
+└──────────────────────────────┘
+  Select units to display the temperature: 
+
+┌──────────────────────────────┐
+│ Weather units: imperial (°F) │
+└──────────────────────────────┘
+
+┌──────────────────────────────────┐
+│ 2 - Lookup by City/State/Country │
+└──────────────────────────────────┘
+  Enter city name:
+  Enter state, or <enter> for none: 
+  Enter two letter country code (e.g. US): 
+
+┌──────────────────────────────────┐
+│ 3 - Lookup by zip code/Country.  │
+└──────────────────────────────────┘
+  Enter zip code:
+  Enter two letter country code (e.g. US):
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░
+
+┌───────────────────────────────────┐
+│ Thank you for using this program! │
+└───────────────────────────────────┘
+
+▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░
